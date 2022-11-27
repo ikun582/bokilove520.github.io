@@ -71,6 +71,6 @@ var settings = {
         // 圆角，50%是圆形
         borderRadius: "50%",
         // 透明度，1不透明，0不透明
-        opacity: ".5"
+        opacity: "1"
     }
 };
